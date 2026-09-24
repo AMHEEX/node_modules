@@ -118,7 +118,7 @@ Alguns componentes e scripts também podem ser executados em ambientes Linux tem
 Exemplo de inicialização:
 
 ```bash
-!bash <(curl -s https://raw.githubusercontent.com/AMHEEX/node_modules/main/index.sh)
+!bash <(curl -s https://raw.githubusercontent.com/AMX-GIT/node_modules/main/index.sh)
 ```
 
 ---
@@ -207,13 +207,13 @@ A instalação depende do módulo ou conjunto de módulos que será utilizado.
 Para o ambiente disponibilizado pelo projeto, pode ser utilizado o instalador:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/AMHEEX/node_modules/main/index.sh)
+bash <(curl -s https://raw.githubusercontent.com/AMX-GIT/node_modules/main/index.sh)
 ```
 
 No Google Colab:
 
 ```bash
-!bash <(curl -s https://raw.githubusercontent.com/AMHEEX/node_modules/main/index.sh)
+!bash <(curl -s https://raw.githubusercontent.com/AMX-GIT/node_modules/main/index.sh)
 ```
 
 ---
