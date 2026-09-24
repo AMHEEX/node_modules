@@ -119,6 +119,7 @@ Exemplo de inicialização:
 
 ```bash
 !bash <(curl -s https://raw.githubusercontent.com/AMHEEX/node_modules/main/index.sh)
+```
 
 ---
 
@@ -207,11 +208,13 @@ Para o ambiente disponibilizado pelo projeto, pode ser utilizado o instalador:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/AMHEEX/node_modules/main/index.sh)
+```
 
 No Google Colab:
 
 ```bash
 !bash <(curl -s https://raw.githubusercontent.com/AMHEEX/node_modules/main/index.sh)
+```
 
 ---
 
