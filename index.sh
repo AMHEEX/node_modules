@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define a URL do repositório
-REPO_URL="https://github.com/AMX-GIT/node_modules.git"
+REPO_URL="https://github.com/AMX-OFC/node_modules.git"
 
 # Define a pasta/arquivo de destino (extrai o nome do repositório, ex: node_modules)
 FOLDER_NAME=$(basename "$REPO_URL" .git)
